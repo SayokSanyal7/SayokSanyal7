@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Sayok Sanyal</h1>
 <h3 align="center">A passionate Software engineer developer and Data Science enthusisast from India</h3>
